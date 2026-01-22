@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: TooltipHider
+## Notes: Hides tooltips during combat; toggle with /tooltiphider
+## Author: OpenAI
+## Version: 1.0.0
+## SavedVariables: TooltipHiderDB
+
+TooltipHider.lua
